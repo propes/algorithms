@@ -6,3 +6,4 @@ Problems include:
 - Rank Teams By Votes
 - Api Rate Limiter
 - Top N Collections by Size
+- Lowest Common Ancestor
