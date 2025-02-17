@@ -4,3 +4,4 @@ A collection of solutions to various algorithm problems similar to ones found on
 
 Problems include:
 - Rank Teams By Votes
+- Api Rate Limiter
